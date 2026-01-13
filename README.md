@@ -5,3 +5,5 @@ This project analyses sales, product and customer data using SQL to generate mea
 - <a href="https://github.com/darshunagaraj/Sales-Product-and-Customer-Analysis-using-SQL/blob/main/gold.dim_products.xlsx">Dataset_Product</a>
 - <a href="https://github.com/darshunagaraj/Sales-Product-and-Customer-Analysis-using-SQL/blob/main/gold.fact_sales.xlsx">Dataset_sales</a>
 - <a href="https://github.com/darshunagaraj/Sales-Product-and-Customer-Analysis-using-SQL/blob/main/gold.report_customers.xlsx">Dataset_customers</a>
+
+## Questions KPI(S)
