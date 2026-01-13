@@ -36,3 +36,53 @@ This project analyses sales, product and customer data using SQL to generate mea
 --Calculate total sales amount by customer country.
 
 --Count the number of customers by gender.
+
+--Find the highest price among all orders.
+
+--Display products that require maintenance.
+
+--Calculate total sales for each product line.
+
+--Show the number of orders placed by each customer per year.
+
+--Find customers who have never placed any order.
+
+--Calculate total sales amount for each year.
+
+--Find the average quantity sold per order.
+
+--Show the total number of orders per product.
+
+--List customers along with their total quantity purchased.
+
+--Find products with cost higher than the average product cost.
+
+--Show orders placed within the last 30 days.
+
+--Find the total sales amount per marital status.
+
+--Calculate total sales amount by customer gender.
+
+--Show the earliest and latest order dates.
+
+--Find products sold more than 100 times in total quantity.
+
+--Find the top-selling product (by sales amount) in each category.
+
+--Calculate customer lifetime value (total sales per customer).
+
+--Calculate year-over-year sales growth.
+
+--Find the average delivery delay in days for all orders.
+
+--Identify repeat customers who placed more than one order.
+
+--Calculate profit for each product (sales amount minus cost × quantity).
+
+--Find the most profitable product category.
+
+--Calculate a running total of sales ordered by order date.
+
+--Find customers whose average order value is higher than the overall average order value.
+
+--Find the most popular product based on total quantity sold.
