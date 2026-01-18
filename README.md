@@ -81,6 +81,26 @@ This project analyses sales, product and customer data using SQL to generate mea
 
 --Find the most profitable product category.
 
+--Rank customers based on their total sales amount.
+
+--Rank products within each category based on total sales.
+
+--Identify the least profitable product.
+
+--Find customers who placed orders in consecutive years.
+
+--Calculate the percentage contribution of each category to total sales.
+
+--Find the top 3 products by quantity sold for each category.
+
+--Identify customers who did not place any orders in the last year.
+
+--Find the longest time gap between order date and shipping date.
+
+--Calculate average order value per customer and classify them as High / Medium / Low value.
+
+--Find products that contribute to the top 20% of total sales (Pareto analysis).
+
 --Calculate a running total of sales ordered by order date.
 
 --Find customers whose average order value is higher than the overall average order value.
